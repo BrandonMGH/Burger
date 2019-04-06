@@ -1,6 +1,5 @@
 **Section 14  EAT-DA-BURGER APP**
 
-![FriendFinderApp](../images/friendfinderapp.jpg)
 
 **Assignment Details:**
 
