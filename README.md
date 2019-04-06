@@ -14,7 +14,7 @@ In this assignment, we had to use a combination of our knowledge the node.js env
 * Site deployed with Heroku
 
 
-Link to Heroku Page: https://friend-finder-app-ucsd.herokuapp.com/home.html
+Link to Heroku Page: https://want-a-burger.herokuapp.com/
 
 
 **Screencastify Link:**
